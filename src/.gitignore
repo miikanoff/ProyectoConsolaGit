@@ -1,17 +1,1 @@
-# Ignorar archivos de compilación
-bin/
-obj/
-
-# Archivos de configuración de IDEs (si estás trabajando en Eclipse, IntelliJ, etc.)
-.vscode/
-*.iml
-
-# Archivos generados por el sistema operativo
-.DS_Store
-Thumbs.db
-
-# Archivos de dependencia del gestor de paquetes (por ejemplo, Maven, Gradle)
-.mvn/
-target/
-.gradle/
-build/
+# Ignorar
